@@ -1,0 +1,26 @@
+09/04/2019
+
+DBMS = Database Management System
+
+Create database, maintain database = quick and easy retrieval of data
+
+model = representation of reality
+
+data model = notation for describing data
+
+SQL = RDBMS
+Relational Database
+
+09/11/2019
+
+mysql-ctl start
+mysql -u root -p
+SHOW databases;
+CREATE database medic;
+SHOW databases;
+USE medic;
+CREATE table student(
+id int,
+name VARCHAR(255),
+gpa float)
+;
